@@ -6,7 +6,7 @@ int main() {
     float a;
     float b;
     int opzione;
-    cin>>a,b;
+    cin>>a,b,opzione;
     switch (opzione) {
         case 0:
             cout<<(a*b)/2<< endl;
